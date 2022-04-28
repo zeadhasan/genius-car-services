@@ -1,0 +1,14 @@
+.service {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    /* margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 450px; */
+}
+
+.service-button {
+    bottom: 0;
+}
